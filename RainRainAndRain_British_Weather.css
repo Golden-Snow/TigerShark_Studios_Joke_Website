@@ -1,0 +1,51 @@
+#Show_That_Rain {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+#Show_That_Rain_Ye {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+    max-width: 1202px;
+    width: 100%;
+}
+
+.Where_It_Will_Rain {
+    background-color: rgba(222, 132, 132, 0.3);
+    border: 1px solid #ddd;
+    padding: 15px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.Where_It_Will_Rain h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-bottom: 20px;
+}
+
+
+/* | #############################################################################################################  | */
+
+
+#Feet_Fetish_Or_Something_Rain {
+    background-color: #1e2a38;
+    color: white;
+    text-align: center;
+    padding: 2% 0;
+    position: absolute;
+    width: 100%;
+    top: 95%;
+}
+
+#Feet_Fetish_Or_Something_Rain p {
+    margin: 0;
+    font-size: 1.4em;
+}

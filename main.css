@@ -1,0 +1,290 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('Fonts_Or_Something_xD/Roboto-Regular.ttf') format('truetype');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Fonts_Or_Something_xD/Roboto-Bold.ttf') format('truetype');
+    font-weight: bold;
+}
+
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+h1, h2, h3, h4, h5, h6, p {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* | #############################################################################################################  | */
+
+
+Mount_Eeveerest_Or_Something {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+#Bunny_Img_UwU {
+    width: 100.86%;
+    height: 100%;
+}
+
+.Hyperlinks_I_Think {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    display: inline-flex;
+    gap: 20px;
+    transform: translateX(-50%);
+}
+
+.Hype_Links_for_sure_ye {
+    background-color: rgba(62, 64, 21, 0.88);
+    padding: 4px 6px;
+    text-decoration: none;
+    color: rgb(201, 173, 239);
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+
+/* | #############################################################################################################  | */
+
+
+.The_Milf_Section {
+    background-color: #1e2a38;
+    width: 100%;
+    position: absolute;
+    top: 25.5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.Hot_Single_Moms_EYO {
+    flex: none;
+    max-width: 35%;
+    color: white;
+    margin-left: 15%;
+}
+
+.Hot_Single_Moms_EYO h2 {
+    padding-top: 2%;
+    font-size: 3.1em;
+    font-weight: bold;
+    margin-bottom: 1px;
+}
+
+.Hot_Single_Moms_EYO p {
+    font-size: 2.3em;
+    line-height: 1.3em;
+    margin-bottom: 5px;
+    margin-top: 6px;
+}
+
+.Sign_Up_Bitch {
+    background-color: #007bff;
+    color: white;
+    padding: 2px 16px;
+    text-decoration: none;
+    border-radius: 16px;
+    font-size: 2.5em;
+    display: inline-block;
+    margin-top: 13px;
+}
+
+.Sign_Up_Bitch:hover {
+    background-color: #0056b3;
+}
+
+.Fishy_Mom {
+    flex: none;
+    max-width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+     margin-right: 9%;
+}
+
+.Fishy_Mom img {
+    max-width: 100%;
+    height: 80%;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+
+/* | #############################################################################################################  | */
+
+
+#Stuffing_Title_x3 {
+    position: absolute;
+    top: 85%;
+    left: 34.5%;
+    font-size: 3em;
+    font-weight: bold;
+}
+
+.We_Gotcha_Information {
+    width: 100%;
+    position: absolute;
+    top: 105%;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+
+.Stripper_Time_UwU img {
+    margin-left: 50%;
+    margin-top: 26px;
+    width: 600px;
+    height: 300px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.That_Stripper_Text_Yee p {
+    margin-top: 3%;
+    margin-left: 29%;
+    width: 43.4%;
+    font-size: 1.7em;
+    line-height: 1.5em;
+}
+
+.Still_Not_Satisfied {
+    width: 100%;
+    position: absolute;
+    top: 149%;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+}
+
+.School_Unshooter_Lol img {
+    margin-top: 20px;
+    margin-left: -52%;
+    width: 600px;
+    height: 300px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+}
+
+.Private_Security_Haha p {
+    margin-left: 27%;
+    font-size: 1.7em;
+    line-height: 1.5em;
+    width: 43.4%;
+}
+
+
+/* | #############################################################################################################  | */
+
+
+.Inspirational_Shit_x3 {
+    background-color: #d3d3d3;
+    top: 194%;
+    position: absolute;
+    width: 100%;
+    margin: 50px auto;
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#My_OWN_Qoute {
+    font-size: 2.5em;
+    font-style: italic;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+
+#Me_Me_ME_The_Rizzler {
+    margin-left: 67%;
+    font-size: 1.7em;
+    font-weight: bold;
+    color: #000;
+}
+
+
+/* | #############################################################################################################  | */
+
+
+.Now_You_Just_Have_To_Sign_Up_xD {
+    background-color: #007bff;
+    color: white;
+    top: 225%;
+    justify-content: space-between;
+    position: absolute;
+    left: 19.5%;
+    display: flex;
+    width: 55%;
+    margin: 70px auto;
+    padding: 30px 100px;
+    border-radius: 10px;
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.Convincing_Texting {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+/* Header styling */
+.Now_You_Just_Have_To_Sign_Up_xD h4 {
+    margin: 1px;
+    font-size: 2.5em;
+}
+
+
+.Now_You_Just_Have_To_Sign_Up_xD p {
+    margin: 0;
+    font-size: 2.15em;
+}
+
+
+.I_Said_Sign_Up_Bitch {
+    color: #ffffff;
+    background-color: #007bff;
+    padding: 5px 20px;
+    font-size: 2.2em;
+    padding-top: 5.8px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: 3px solid #ffffff;
+    display: inline-block;
+    margin-top: 15px;
+}
+
+.I_Said_Sign_Up_Bitch:hover {
+    background-color: #0056b3;
+}
+
+
+/* | #############################################################################################################  | */
+
+
+#Feet_Fetish_Or_Something_xD {
+    background-color: #1e2a38;
+    color: white;
+    text-align: center;
+    padding: 2% 0;
+    position: absolute;
+    width: 100%;
+    top: 263%;
+}
+
+#Feet_Fetish_Or_Something_xD p {
+    margin: 0;
+    font-size: 1.4em;
+}
